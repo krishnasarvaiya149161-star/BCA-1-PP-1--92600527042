@@ -1,0 +1,6 @@
+//WAP to calculate simple interest
+#include<stdio.h>
+#include<conio.h>
+
+void main()
+{
