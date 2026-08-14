@@ -1,0 +1,16 @@
+//WAP Display ASCII code of input charecter
+#include<conio.h>
+#include<stdio.h>
+
+void main()
+{
+	char x;
+	clrscr();
+	printf("\n Enter any Character : ");
+	scanf("%c",&x);
+
+	printf("\n Input Character is : %c" ,x);
+	printf("\n ASCII code is : %d",x);
+
+	getch();
+}
